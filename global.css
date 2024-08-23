@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-abhaya-libre-extrabold: "Abhaya Libre ExtraBold";
+  --font-alata: Alata;
+  --font-koulen: Koulen;
+  --font-acme: Acme;
+
+  /* font sizes */
+  --font-size-9xs: 4px;
+  --font-size-8xs: 5px;
+  --font-size-6xs: 7px;
+  --font-size-4xs: 9px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-gray-100: #02002b;
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+  --padding-11xs-2: 1.2px;
+  --padding-11xs: 2px;
+  --padding-12xs: 1px;
+  --padding-9xs: 4px;
+  --padding-sm: 14px;
+  --padding-11xs-1: 1.1px;
+  --padding-3xl: 22px;
+  --padding-4xl: 23px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
